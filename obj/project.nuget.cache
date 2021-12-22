@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4pjCLa7fTa0sHaLJbMqd10HpWG4CnE+L7sum4CC5NI8ilfzBwArGF6IFWiN04EidyJExIsAjaRLwu/HuTWFT7A==",
+  "dgSpecHash": "x9AbzEsJ64lMS3ikFlR9hC7ZL8MUlPJc6Vuf34xuCTRzr2qy8iFIwlK4ytphUofF4N1smxnhJJm1nJsbO28YYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hypho\\Desktop\\Recuperatorio\\DonPepe\\DonPepe.csproj",
+  "projectFilePath": "C:\\Users\\hypho\\Desktop\\Recuperatorio WebApi\\DonPepe\\DonPepe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hypho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hypho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

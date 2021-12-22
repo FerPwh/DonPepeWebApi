@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hypho\\Desktop\\Recuperatorio\\DonPepe\\DonPepe.csproj": {}
+    "C:\\Users\\hypho\\Desktop\\Recuperatorio WebApi\\DonPepe\\DonPepe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hypho\\Desktop\\Recuperatorio\\DonPepe\\DonPepe.csproj": {
+    "C:\\Users\\hypho\\Desktop\\Recuperatorio WebApi\\DonPepe\\DonPepe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hypho\\Desktop\\Recuperatorio\\DonPepe\\DonPepe.csproj",
+        "projectUniqueName": "C:\\Users\\hypho\\Desktop\\Recuperatorio WebApi\\DonPepe\\DonPepe.csproj",
         "projectName": "DonPepe",
-        "projectPath": "C:\\Users\\hypho\\Desktop\\Recuperatorio\\DonPepe\\DonPepe.csproj",
+        "projectPath": "C:\\Users\\hypho\\Desktop\\Recuperatorio WebApi\\DonPepe\\DonPepe.csproj",
         "packagesPath": "C:\\Users\\hypho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hypho\\Desktop\\Recuperatorio\\DonPepe\\obj\\",
+        "outputPath": "C:\\Users\\hypho\\Desktop\\Recuperatorio WebApi\\DonPepe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

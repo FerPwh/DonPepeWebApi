@@ -50,7 +50,7 @@ namespace DonPepe
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "DonPepe v1"));
                 app.UseCors(options =>
                 {
-                    options.WithOrigins("http://localhost:3000");
+                    options.WithOrigins("http://localhost:8081");
                     options.AllowAnyMethod();
                     options.AllowAnyHeader();
                 });

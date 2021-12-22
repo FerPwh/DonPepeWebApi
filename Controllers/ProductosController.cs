@@ -107,7 +107,7 @@ namespace DonPepe.Controllers
         {
             try
             {
-                if (producto.idcategoria == id)
+                if (producto.codproducto == id)
                 {
                     context.Entry(producto).State = EntityState.Modified;
                     await context.SaveChangesAsync();
@@ -141,6 +141,22 @@ namespace DonPepe.Controllers
                 {
                     return BadRequest();
                 }
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        // DELETE api/<ProductosController>/XX
+        [HttpDelete("DeleteAll")]
+        public async Task<IActionResult> DeleteAll()
+        {
+            try
+            {
+                context.Producto.RemoveRange(context.Producto.ToArray());
+                await context.SaveChangesAsync();
+                return Ok("Se vaciaron los productos");
             }
             catch (Exception ex)
             {
